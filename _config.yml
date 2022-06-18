@@ -8,8 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
-url:                https://elky84.github.io
-baseurl:            '/Moon'
+url:                https://elky84.github.io/Moon
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -52,7 +51,7 @@ pinterest:         elky1984
 #foursquare:        username
 steam:              elkykim
 #dribbble:          username
-youtube:           elky84
+#youtube:           elky84
 youtube-channel:   UC8ovI62bgJW8EpER0oyuPgQ
 soundcloud:        seonghoon-kim-92631804
 #weibo:             username
