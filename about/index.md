@@ -8,6 +8,8 @@ comments: false
     
 <center><a href="https://elky84.github.io/resume"><b>Elky</b></a> is a online game & web server developer.</center>
 
+![Profile](../assets/img/elky.png)
+
 # About me
 
 ## 개발을 즐기는 개발자, 글 쓰기를 좋아하는 개발자 김성훈입니다.
