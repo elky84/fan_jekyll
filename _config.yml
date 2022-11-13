@@ -1,7 +1,7 @@
 # Site
-title:              엘키의 이력서
-bio:                '소프트웨어 엔지니어 김성훈입니다'
-description:        "저의 이력, 생각, 프로젝트 들에 대해서 나열하는 블로그입니다"
+title:              Elky Fan
+bio:                '엘키의 팬심 블로그'
+description:        "내가 좋아하는 것들, 응원하는 것들에 대해서 이야기"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
