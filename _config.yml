@@ -5,7 +5,7 @@ description:        "내가 좋아하는 것들, 응원하는 것들에 대해�
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/zelda_bw.jpg'
+background:         'assets/img/soccer_stadium.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
 url:                https://elky84.github.io/fan
