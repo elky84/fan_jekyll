@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/soccer_stadium.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
-url:                https://elky84.github.io/fan
+url:                https://elky84.github.io/fan_jekyll
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
